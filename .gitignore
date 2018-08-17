@@ -1,0 +1,6 @@
+*.log
+*.pyc
+*.egg-info
+*.pot
+.tox/
+__pycache__
